@@ -1,0 +1,9 @@
+c:\users\corey\documents\visual studio 2013\Projects\BasketBall\BasketBall\bin\Debug\BasketBall.exe.config
+c:\users\corey\documents\visual studio 2013\Projects\BasketBall\BasketBall\bin\Debug\BasketBall.exe
+c:\users\corey\documents\visual studio 2013\Projects\BasketBall\BasketBall\bin\Debug\BasketBall.pdb
+c:\users\corey\documents\visual studio 2013\Projects\BasketBall\BasketBall\obj\Debug\BasketBall.csprojResolveAssemblyReference.cache
+c:\users\corey\documents\visual studio 2013\Projects\BasketBall\BasketBall\obj\Debug\BasketBall.MainMenu.resources
+c:\users\corey\documents\visual studio 2013\Projects\BasketBall\BasketBall\obj\Debug\BasketBall.Properties.Resources.resources
+c:\users\corey\documents\visual studio 2013\Projects\BasketBall\BasketBall\obj\Debug\BasketBall.csproj.GenerateResource.Cache
+c:\users\corey\documents\visual studio 2013\Projects\BasketBall\BasketBall\obj\Debug\BasketBall.exe
+c:\users\corey\documents\visual studio 2013\Projects\BasketBall\BasketBall\obj\Debug\BasketBall.pdb
