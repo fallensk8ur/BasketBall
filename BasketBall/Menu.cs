@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace BasketBall
 {
-    public partial class Menu : Form
+    public partial class MenuF : Form
     {
-        public Menu()
+        public MenuF()
         {
             InitializeComponent();
+        }
+
+        private void backToMenuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

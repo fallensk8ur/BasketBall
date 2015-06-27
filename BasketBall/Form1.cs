@@ -19,12 +19,18 @@ namespace BasketBall
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void MainMenu_Load(object sender, EventArgs e)
+        {
+            //Create object
+            MenuF menuf = new MenuF();
         }
     }
 }
